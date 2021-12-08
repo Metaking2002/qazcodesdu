@@ -1,0 +1,100 @@
+[
+  {
+    "RU": {
+      "start_button": "Начать",
+      "submit": "Готово",
+      "account": "Мой аккаунт",
+      "homework": ["Senior", "Middle", "Junior"],
+      "out" : "Выйти",
+      "your_course": "Ваши курсы",
+      "write_us" : "Напишите нам",
+      "settings" : "Настройки",
+      "your_info": "Ваши данные",
+      "change_psw" : "Изменить пароль",
+      "loading" : "Загрузка ...",
+      "menu" : "Меню",
+      "about_course" : "Об этом курсе",
+      "all_sections" : "Всего секции",
+      "section" : "Секция",
+      "practice_tests" : "Практические тесты",
+      "practice_test_sub": "на проверку ваших знаний",
+      "check": "Тексеру",
+      "home_work" : "Домашняя работа",
+      "cancel" : "Отмена",
+      "next_btn" : "Следующий",
+      "title" : "Название",
+      "overall_progress": "Прогресс курса",
+      "topics" : "Секции",
+      "course_finished": "курс пройден",
+      "course_not_finished" : "не закончен",
+      "add_student": "Добавить ученика",
+      "home" : "Главная",
+      "add_btn": "Добавить",
+      "no_name": "Напишите имя ученика",
+      "students": "Ученики",
+      "more": "ЕЩЕ",
+      "not_found": "Ничего не найдено",
+      "find": "Найти",
+      "question": "Вопрос",
+      "admin": {
+        "hi": "Привет",
+        "no_student": "У вас нет ни одного ученика",
+        "your_students": "Это ваши ученики"
+      },
+      "student_data": {
+        "name": "Имя",
+        "surname": "Фамилия",
+        "psw": "Пароль"
+      }
+    },
+    "KZ": {
+      "start_button": "Bastau",
+      "submit": "Daiyn",
+      "account": "Akkaýntym",
+      "homework": ["Senior", "Middle", "Junior"],
+      "out": "Shyǵý",
+      "your_course": "Cіzdіń kýrsaryńyz",
+      "write_us" : "Bіzge jazyńyz",
+      "settings" :  "Baptaýlar",
+      "your_info": "Sіzdіń aqparattaryńyz",
+      "change_psw" : "Qupııasózdі ózgertý",
+      "loading" : "Júktelýde ...",
+      "menu": "Menıý",
+      "about_course" : "Osy kýrs jaıly",
+      "all_sections" : "Barlyq sektsııalar",
+      "section": "Sektsııa",
+      "practice_tests": "Praktıkalyq tester",
+      "practice_test_sub": "bіlіmіńіzdі tekserý úshіn",
+      "check": "Tekserý",
+      "home_work" : "Úı júmysy",
+      "cancel" : "Artqa",
+      "next_btn" : "Kelesі",
+      "students": "Oqýshylar",
+      "title" : "Aty",
+      "overall_progress": "Kýrstyń progressі",
+      "topics" : "Sektsııalar",
+      "course_finished": "sektsııa aıaqtaldy",
+      "course_not_finished" : "aıaqtalǵan joq",
+      "add_student": "Oqýshy qosý",
+      "add_btn": "Qosý",
+      "no_name": "Oqýshynyń aty-jónіń jazyńyz",
+      "question": "Suraq",
+      "home": "Uyge",
+
+      "admin": {
+        "hi": "Sálem",
+        "no_student": "Sіzde bіr de bіr oqýshy joq",
+        "your_students": "Bul sіzdіń oqýshylaryńyz"
+      },
+      "student_data": {
+        "name": "Aty",
+        "surname": "Tegі",
+        "psw": "Qupııasóz"
+      },
+      "more": "Taǵyda",
+      "not_found": "Eshteńe tabylmady",
+      "find": "Izdeý"
+    }
+
+  }
+]
